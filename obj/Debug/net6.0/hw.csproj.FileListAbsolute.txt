@@ -1,0 +1,15 @@
+D:\hw6 C++\hw\bin\Debug\net6.0\hw.exe
+D:\hw6 C++\hw\bin\Debug\net6.0\hw.deps.json
+D:\hw6 C++\hw\bin\Debug\net6.0\hw.runtimeconfig.json
+D:\hw6 C++\hw\bin\Debug\net6.0\hw.dll
+D:\hw6 C++\hw\bin\Debug\net6.0\hw.pdb
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.csproj.AssemblyReference.cache
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.AssemblyInfoInputs.cache
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.AssemblyInfo.cs
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.csproj.CoreCompileInputs.cache
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.dll
+D:\hw6 C++\hw\obj\Debug\net6.0\refint\hw.dll
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.pdb
+D:\hw6 C++\hw\obj\Debug\net6.0\hw.genruntimeconfig.cache
+D:\hw6 C++\hw\obj\Debug\net6.0\ref\hw.dll
